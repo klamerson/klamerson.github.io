@@ -1,0 +1,7 @@
+﻿User-agent: *
+Allow: /
+Disallow: /koszyk
+Disallow: /zamowienie
+Disallow: /zamowienie/potwierdzenie
+Sitemap: https://klamerson.github.io/sitemap.xml
+

@@ -1,7 +1,7 @@
 {
   "name": "SodaStream Demo Store",
   "short_name": "SodaStore",
-  "description": "Demo sklepu SodaStream - butelki, syropy i naboje CO2.",
+  "description": "Sklep SodaStream premium: butelki, syropy i naboje CO2. Szybka dostawa i wygodne zakupy.",
   "lang": "pl-PL",
   "start_url": "/",
   "scope": "/",
